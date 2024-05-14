@@ -10,8 +10,6 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
-
 
 ## Overview
 
@@ -49,8 +47,4 @@ Users should be able to:
 - Vite - Build tool that aims to provide a faster and leaner development experience for modern web projects
 
 
-## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
