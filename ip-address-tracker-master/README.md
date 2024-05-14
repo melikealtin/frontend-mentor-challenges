@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:](https://github.com/melikealtin/frontend-mentor-challenges/blob/main/ip-address-tracker-master/src/App.vue)
-- [Live Site URL:](https://frontend-mentor-challenges-wheat-eight.vercel.app/)
+- [Solution URL](https://github.com/melikealtin/frontend-mentor-challenges/blob/main/ip-address-tracker-master/src/App.vue)
+- [Live Site URL](https://frontend-mentor-challenges-wheat-eight.vercel.app/)
 
 ## My process
 
